@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arusa\\OneDrive\\Desktop\\Asp.NET-Project\\HPlusSport\\HPlusSport.API\\HPlusSport.API.csproj",
+      "projectUniqueName": "C:\\Users\\arusa\\OneDrive\\Desktop\\lmao\\HPlusSportAPI\\HPlusSport.API\\HPlusSport.API.csproj",
       "projectName": "HPlusSport.API",
-      "projectPath": "C:\\Users\\arusa\\OneDrive\\Desktop\\Asp.NET-Project\\HPlusSport\\HPlusSport.API\\HPlusSport.API.csproj",
+      "projectPath": "C:\\Users\\arusa\\OneDrive\\Desktop\\lmao\\HPlusSportAPI\\HPlusSport.API\\HPlusSport.API.csproj",
       "packagesPath": "C:\\Users\\arusa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arusa\\OneDrive\\Desktop\\Asp.NET-Project\\HPlusSport\\HPlusSport.API\\obj\\",
+      "outputPath": "C:\\Users\\arusa\\OneDrive\\Desktop\\lmao\\HPlusSportAPI\\HPlusSport.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arusa\\AppData\\Roaming\\NuGet\\NuGet.Config",

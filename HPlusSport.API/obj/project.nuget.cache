@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NB6SC2O2udSd+x8XE5eL4oD6vDASyF5tiK8/kUH9Oe1MtMoZ14yRA6Lu9GJd7uoZXzvuOB9shG/9cJi/KWe5TA==",
+  "dgSpecHash": "4yy7R3TXDY0m8xLiNgPNxDSH66Tk0v3FVHsYpFCHBe+kUrvJ+394W2tJKvJ4v19XpCIsVh4RfdRA+JkT37/azw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arusa\\OneDrive\\Desktop\\Asp.NET-Project\\HPlusSport\\HPlusSport.API\\HPlusSport.API.csproj",
+  "projectFilePath": "C:\\Users\\arusa\\OneDrive\\Desktop\\lmao\\HPlusSportAPI\\HPlusSport.API\\HPlusSport.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arusa\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "C:\\Users\\arusa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
